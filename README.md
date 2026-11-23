@@ -84,6 +84,11 @@ format:
 ```
 ### 2026
 
+- [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](https://openreview.net/pdf?id=Ockny0oU9m)
+  - Youngjae Cho, Jongsuk Kim, Ji-Hoon Kim
+  - Keyword: DPO, Preference, Alignment, LLM, Optimization
+  - Code: [Official](https://github.com/youngjae-cho/GAPO)
+    
 - [Why DPO is a Misspecified Estimator and How to Fix It](https://openreview.net/pdf?id=btEiAfnLsX)
   - Aditya Gopalan, Sayak Ray Chowdhury, Debangshu Banerjee
   - Keyword: DPO, RLHF, Preference, Alignment, LLM
